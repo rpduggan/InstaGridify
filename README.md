@@ -10,7 +10,7 @@ Effortlessly split images into Instagram-friendly grids without distorting the m
 - Error handling for various edge cases (e.g., non-existing images, non-image files, etc.).
 
 ## Installation
-To use InstaGridify, you need Python installed on your system [Download Python](https://www.python.org/downloads/). When installing Python check off [x] `Add python.exe to PATH` and use default selections the rest of the time. Clone or download this repository to your local machine and have any packages installed for Python.
+To use InstaGridify, you need Python installed on your system [Download Python](https://www.python.org/downloads/). When installing Python check off [x] Add python.exe to PATH on the first page and use default selections the rest of the time. Clone or download this repository to your local machine and have any packages installed for Python.
 
 ```bash
 git clone https://github.com/rpduggan/InstaGridify.git
