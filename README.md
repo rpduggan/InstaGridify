@@ -36,6 +36,24 @@ python insta_gridify.py image.png 3 3
 
 If you leave off the optional column and row numbers, it will estimate the best grids for you and give you some options to choose from.
 
+## Supported File Types
+
+InstaGridify supports a wide range of image file formats. Below is a list of commonly supported formats:
+
+- JPEG (`*.jpg`, `*.jpeg`)
+- PNG (`*.png`)
+- GIF (`*.gif`)
+- BMP (`*.bmp`)
+- TIFF (`*.tiff`)
+- Windows ICO (`*.ico`)
+- WEBP (`*.webp`)
+- PCX (`*.pcx`)
+- PPM (`*.ppm`)
+- PSD (`*.psd`)
+- TGA (`*.tga`)
+
+Note: For SVG and multi-page PDFs, specialized libraries may be required as these are not natively supported by Pillow.
+
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
